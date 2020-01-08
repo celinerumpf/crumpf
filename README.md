@@ -1,3 +1,2 @@
-# crumpf
-à l'heure où je mets ce projet sur Github, j'ai déjà fait le gros du CSS, j'ai esthétisé tout ce que je voulais (change la couleur du bouton pour cliquer dans TWINE, etc...). 
-Je suis dans l'écriture du scénario que j'ai déjà couché sur papier. je rajout au fur et à mesure des bruitageset des photos tous au long de l'élaboration du projet. 
+#Brochure CIME 2019
+Ce projet vise à rendre plus attractive la lecture d'un carnet de fête, d'une brochure pour un évènement. Cet exemple construit une histoire autour de la brochure des CIME 2019. L'idée est de faire connaître les informations sur l'évènement, ici le festoval de danse, au travers de l'histoire du festival. Il faut que le lecteur retienne les informations grâce à l'histoire et à ses images. Le déroulement du festival est raconté sous forme d'histoire sur laquelle le lecteur à un impact.
